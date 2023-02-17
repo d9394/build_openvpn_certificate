@@ -10,7 +10,7 @@ if [ ! -f vars ]; then
 	echo set_var EASYRSA_BATCH       "yes" >> vars
 	echo set_var EASYRSA_CA_EXPIRE   3650 >> vars
 	echo set_var EASYRSA_CERT_EXPIRE 3650 >> vars
-	echo set EASYRSA_REQ_CN          "hamshop.cn" >> vars
+	echo set EASYRSA_REQ_CN          "ham.com" >> vars
 	echo set_var EASYRSA_DN          "org" >> vars
 	echo set_var EASYRSA_REQ_COUNTRY     "CN" >> vars
 	echo set_var EASYRSA_REQ_PROVINCE    "GD" >> vars
