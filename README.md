@@ -2,7 +2,7 @@
 a tools to build openvpn certificate
 
 
-usage:
+usage:   
 1, download easyrsa   
   wget https://github.com/OpenVPN/easy-rsa/releases/download/v3.0.4/EasyRSA-3.0.4.tgz   
 2, decompile   
